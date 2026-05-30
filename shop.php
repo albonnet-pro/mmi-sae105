@@ -18,7 +18,7 @@ $section = getInfo($donnee);
 </head>
 <body>
 <header class="entete">
-    <?php include $_SERVER['DOCUMENT_ROOT']."/"."sae105/inlcudes/head.inc.php";?>
+    <?php include $_SERVER['DOCUMENT_ROOT']."/"."inlcudes/head.inc.php";?>
 </header>
 <main>
     <div class="container shop">
@@ -31,7 +31,7 @@ $section = getInfo($donnee);
     </div>
 </main>
 <footer>
-    <?php include $_SERVER['DOCUMENT_ROOT']."/"."sae105/inlcudes/footer.inc.php";?>
+    <?php include $_SERVER['DOCUMENT_ROOT']."/"."inlcudes/footer.inc.php";?>
 </footer>
 </body>
 </html>

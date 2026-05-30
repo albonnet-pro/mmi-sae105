@@ -10,7 +10,7 @@
 </head>
 <body>
 <header class="entete">
-    <?php include $_SERVER['DOCUMENT_ROOT'] . "/" . "sae105/inlcudes/head.inc.php"; ?>
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/" . "inlcudes/head.inc.php"; ?>
 </header>
 <h1>Cette page affiche les données reçues pat le formulaire de contact :</h1>
 <?php
@@ -32,6 +32,6 @@ if (!empty($_GET)) {
 }
 ?>
 <footer>
-    <?php include $_SERVER['DOCUMENT_ROOT']."/"."sae105/inlcudes/footer.inc.php";?>
+    <?php include $_SERVER['DOCUMENT_ROOT']."/"."inlcudes/footer.inc.php";?>
 </footer>
 </body>
