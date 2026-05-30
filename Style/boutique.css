@@ -1,0 +1,68 @@
+.article{
+    padding: 10px;
+    background-color: #6c757d;
+    border-radius: 25px;
+    text-align: center;
+    font-family: Bahnschrift, Serif, cursive;
+    width: 353px;
+    margin: 0 auto;
+    border: solid 3px gray;
+}
+
+.article img{
+    width: 300px;
+    scale: 100%;
+    border-radius: 20px;
+    box-shadow: 8px 8px 10px 0 rgba(0,0,0,0.5);
+    border: solid 0.5px rgba(0,0,0,0.5);
+}
+
+.article:hover{
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    scale: 1.02;
+    box-shadow: 8px 8px 10px 0 rgba(0,0,0,0.5);
+}
+
+.article{
+    transition-duration: 0.5s;
+}
+
+.add-cart{
+    background-color: #1a1d20;
+    color: lightgray;
+    border: solid 3px #2b3035;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: "Agency FB", cursive, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.add-cart:hover{
+    scale: 95%;
+}
+
+.add-cart:active{
+    background-color: yellowgreen;
+    color: #2b3035;
+    border: solid 3px yellow;
+}
+
+.add-cart{
+    transition-duration: 0.5s;
+}
+
+
+.product-id{
+    font-size: 40%;
+}
+
+.product-tags{
+    font-size: 60%;
+}
+
+.shop{
+    padding-top: 25px;
+}
+

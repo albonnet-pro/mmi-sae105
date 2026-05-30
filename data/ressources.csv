@@ -1,0 +1,10 @@
+marque,modele,cat,description,moteur,puissance,prix,id,filename
+Ferrari,"458 Speciale","Super Sportive","cghsdhjjkdhkqjs","V8",605,"235 800",Fer458,"458speciale.jpg"
+Ferrari,"812 Superfast","Super Sportive","dfgg","V12",800,"491 440",Fer812,"812superfast.jpg"
+Ferrari,"488 Spider","Super Sportive","uhuuueizio","V8",670,"360 000",Fer488,"488spider.jpg"
+Porsche,"Panamera Turbo E-Hybrid","Super Sportive","uyuiiuo","V8",680,"132 100",PorPana,"panamera.jpeg"
+Porsche,"911 Turbo S","Super Sportive","uhuioiup","Flat-6",650,"250 260",Por911,"911turboS.jpeg"
+Porsche,"718 Cayman GT4 RS","Super Sportive","kgiugiugi","Flat-6",500,"144 485",Por718,"718cayman.jpeg"
+Lamborghini,"Urus","Super Sportive","dvyieyazu","V8",650,"215 000",LamUru,"urus.jpeg"
+Lamborghini,"Aventador","Super Sportive","uiu yuuioup","V12",740,"400 000",LamAve,"aventador.jpeg"
+Lamborghini,"Revuelto","Hyper Sportive","auzezte ze","V12",1015,"700 000",LamRev,"revuelto.jpeg"
