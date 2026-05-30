@@ -5,7 +5,7 @@ services:
     # ports:
     #   - "8080:80"
     volumes:
-      - .:/var/www/html/sae105
+      - .:/var/www/html
     restart: unless-stopped
     networks:
       - web
