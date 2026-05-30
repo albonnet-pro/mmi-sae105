@@ -1,11 +1,7 @@
 services:
   web:
-    image: php:8.2-apache
+    build: .
     container_name: sae105
-    # ports:
-    #   - "8080:80"
-    volumes:
-      - .:/var/www/html
     restart: unless-stopped
     networks:
       - web
