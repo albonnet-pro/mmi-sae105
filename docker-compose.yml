@@ -7,3 +7,9 @@ services:
     volumes:
       - .:/var/www/html/sae105
     restart: unless-stopped
+    networks:
+      - web
+
+networks:
+  web:
+    external: true
